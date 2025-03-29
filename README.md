@@ -1,6 +1,6 @@
 Email:hansonzhao06@ucla.edu
 
-Try(ing) to be cool...
+
 
 <!--
 **itshanson/itshanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
